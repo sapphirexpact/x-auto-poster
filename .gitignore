@@ -1,0 +1,14 @@
+/node_modules
+/.next/
+/out/
+/build
+.DS_Store
+.env*
+!.env.example
+npm-debug.log*
+*.tsbuildinfo
+next-env.d.ts
+.gh_token*
+write_rest.js
+run_npm.js
+test2.txt
